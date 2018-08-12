@@ -1,2 +1,1 @@
-# gitskills
-gitskills
+git is a version control system.
